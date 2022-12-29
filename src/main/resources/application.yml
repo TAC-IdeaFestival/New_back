@@ -5,9 +5,9 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url : jdbc:mysql://127.0.0.1:3306/whodo?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&useSSL=false&characterEncoding=UTF-8
+    url : jdbc:mysql://idea-festival.cjn5w279zgpz.ap-northeast-2.rds.amazonaws.com/whodo?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&useSSL=false&characterEncoding=UTF-8
     username: root
-    password: jwjw0185**
+    password: tndyd0613
 
   jpa:
     hibernate:
