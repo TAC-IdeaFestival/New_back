@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 
+@CrossOrigin(origins = "https://port-0-new-back-fao2flc73lma0.gksl2.cloudtype.app")
 @RestController
 @RequestMapping("/auth")
 @RequiredArgsConstructor
