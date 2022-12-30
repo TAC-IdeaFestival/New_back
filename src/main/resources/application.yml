@@ -1,7 +1,7 @@
 spring:
   redis:
-    host: localhost
-    port: 6379
+    host: svc.gksl2.cloudtype.app
+    port: 32051
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
